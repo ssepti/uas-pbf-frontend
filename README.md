@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧑‍🎓 Tutorial Frontend Laravel + AdminLTE (CRUD API Mahasiswa & Dosen)
 
 Proyek ini merupakan implementasi **Frontend Laravel** dengan integrasi **AdminLTE** dan komunikasi ke backend **CodeIgniter REST API** untuk entitas **Mahasiswa** dan **Dosen**.
@@ -253,3 +254,6 @@ git push -u origin main
 Proyek ini dibuat untuk keperluan pembelajaran pribadi. Silakan modifikasi sesuai kebutuhanmu.
 
 ---
+=======
+# uas-pbf-frontend
+>>>>>>> 5e8727fce47ec26f7a35e0d392a38ab2a16585a2
